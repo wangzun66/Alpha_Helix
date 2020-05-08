@@ -14,6 +14,8 @@ Run **Generate_Unified_Data.py** in command prompt (of windows):
 
 After these two steps, the "unified_data_file.json" will be generated.
 
+> Python version: 3.7.7   Spacy version 2.0.12
+
 #### 2. Approach to compute the 10 most specific words of argument units
 
 > **Notice:** There are three kinds of argument unit: major claim, claim and premise. Our approach is the same for the three sorts of argument unit.  
